@@ -2,7 +2,7 @@
 
 > Authors: Jimmy Tran, Brian Crites, Md Lutfor Rahman
 
-**Note: This project must be done in groups of two**
+**Note: This project _must_ be done in groups of two**
 
 ## Introduction
 
